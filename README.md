@@ -59,4 +59,4 @@ It also demonstrates how Excel can be used to perform end-to-end data analysis ‚
 **Samkelisiwe Mtsweni**  
 Aspiring Data Analyst | Excel | Data Visualization | Business Insights  
 üìç South Africa  
-[LinkedIn Profile](#) *(add your link here)*  
+[LinkedIn Profile](#) *(https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)*  
